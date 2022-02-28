@@ -6,8 +6,8 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/Rafael/Downloads/mysql-connector-java-8.0.17.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Rafael/Documents/Extrair/mchange-commons-java-0.2.16.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Rafael/Documents/Extrair/c3p0-0.9.5.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rafael/Documents/Alura/loja-virtual-repository/src/br/com/alura/jdbc/lib/mysql-connector-java-8.0.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rafael/Documents/Alura/loja-virtual-repository/src/br/com/alura/jdbc/lib/mchange-commons-java-0.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rafael/Documents/Alura/loja-virtual-repository/src/br/com/alura/jdbc/lib/c3p0-0.9.5.4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
